@@ -7,6 +7,12 @@ import static com.googlecode.javacv.cpp.opencv_highgui.*;
 import java.io.File;
 import javax.swing.JFileChooser;
 
+/**
+ * <p>
+ * A Demo of JavaCV. Code is from {@link http://stackoverflow.com/a/11522705}
+ * </p>
+ * 
+ */
 public class Demo2 {
     public static void main(String[] args) {
 	/*
